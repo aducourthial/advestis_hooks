@@ -7,7 +7,7 @@
 `if [ ! -d ~/.local/bin ]; then mkdir -p ~/.local/bin; fi; cd ~/.local/bin`
 
 - Download [the gist](https://gist.github.com/aducourthial/3e180793885b378d27e15b66a70a6000) 
-- 
+
 ![gist_raw](https://raw.githubusercontent.com/aducourthial/advestis_hooks/master/static/gits_raw.png)
 - Right-click on raw and select Save link as...
   or use : 
